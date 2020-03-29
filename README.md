@@ -1,4 +1,4 @@
-# spring-data-jpa rest-repositories test-containers
+# spring-data-jpa rest-repositories test-containers [![CI](https://github.com/daggerok/spring-data-jpa-repositories-test-containers-example/workflows/CI/badge.svg)](https://github.com/daggerok/spring-data-jpa-repositories-test-containers-example/actions?query=workflow%3ACI)
 Yet another TestContainers tests and yet another spring-boot app
 
 ```bash
