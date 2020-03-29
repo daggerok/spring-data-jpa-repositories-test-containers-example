@@ -12,6 +12,7 @@ Yet another TestContainers tests and yet another spring-boot app
 
 ## resources
 
+* [YouTube: Testing Spring Boot Applications](https://www.youtube.com/watch?v=Wpz6b8ZEgcU&feature=youtu.be&t=2088s)
 * https://github.com/testcontainers/testcontainers-java/issues/318
 * https://spring.io/blog/2020/03/27/dynamicpropertysource-in-spring-framework-5-2-5-and-spring-boot-2-2-6
 * [Official Gradle documentation](https://docs.gradle.org)
