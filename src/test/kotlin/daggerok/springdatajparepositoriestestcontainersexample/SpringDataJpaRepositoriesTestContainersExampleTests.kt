@@ -24,7 +24,7 @@ internal class SpringDataJpaRepositoriesTestContainersExampleTests(@Autowired va
     //     .withExposedPorts(6543)
     @Container
     internal val pg = PgContainer(/*image = "postgres:alpine"*/)
-        .withExposedPorts(6543)
+        // .withExposedPorts(5432)
         .withDatabaseName("test")
         .withUsername("test")
         .withPassword("test")
