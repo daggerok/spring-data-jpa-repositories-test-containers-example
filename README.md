@@ -5,6 +5,11 @@ Yet another TestContainers tests and yet another spring-boot app
 ./gradlew clean test
 ```
 
+## other repos:
+
+* [GitHub: daggerok/testcontainers-example](https://github.com/daggerok/testcontainers-examples)
+* [GitHub: daggerok/testcontainers-selenide-example](https://github.com/daggerok/testcontainers-selenide-example)
+
 ## resources
 
 * https://github.com/testcontainers/testcontainers-java/issues/318
